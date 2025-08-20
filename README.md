@@ -1,4 +1,4 @@
 # jcgentr.github.io
 My GitHub Pages site
 
-testing 1,2,3
+[View Resume](https://jcgentr.github.io/jared_gentry_resume.pdf)
